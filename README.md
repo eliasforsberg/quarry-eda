@@ -1,1 +1,2 @@
-# quarry-eda
+# Quarry Downtime and Production EDA
+
