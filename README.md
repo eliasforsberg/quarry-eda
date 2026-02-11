@@ -7,6 +7,3 @@ This repo explores recorded production and downtime events at an operational qua
 2. Initial Observations
 3. Cleaning
 4. Predicting Downtime Events
-
-
-**Note: Analysis is not complete but will be continuously updated and refined as time permits.**
