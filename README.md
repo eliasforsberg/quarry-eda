@@ -2,8 +2,6 @@
 # Quarry Downtime and Production EDA
 This repo explores recorded production and downtime events at an operational quarry. You can view the raw CSVs used for this project in the data folder.
 
-Thank you to Lafarge Canada for providing this information.
-
 ### Sections
 1. Data Type Correction
 2. Initial Observations
